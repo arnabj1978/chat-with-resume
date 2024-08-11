@@ -1,4 +1,4 @@
-# Multiple Resume Chat App
+# Chat with resume App
 
 
 ## Introduction

@@ -1,5 +1,5 @@
 
-Chatting with resume content using OpenAI
+Chatting with resume content using OpenAI, started with uploading Pandu's resume.
 
 <img width="1351" alt="Pasted Graphic 2" src="https://github.com/user-attachments/assets/f1953bda-790e-4107-bbec-2a4cffd05f2a">
 
@@ -9,10 +9,9 @@ Chatting with resume content using OpenAI
 
 <img width="1329" alt="Pasted Graphic 5" src="https://github.com/user-attachments/assets/725b9d7e-4910-4f93-8a7c-1d7d674b7f16">
 
-￼
-Partha’s resume also uploaded and processed using open AI
+Partha’s resume also uploaded and processed using open AI at this point
 
-￼<img width="1327" alt="Pasted Graphic 6" src="https://github.com/user-attachments/assets/b2d24827-82af-4f44-80fe-36a9f8f3cd2e">
+<img width="1327" alt="Pasted Graphic 6" src="https://github.com/user-attachments/assets/b2d24827-82af-4f44-80fe-36a9f8f3cd2e">
 
 ￼<img width="1291" alt="Pasted Graphic 7" src="https://github.com/user-attachments/assets/385a7a6e-1e43-430e-a8f8-771f43454392">
 

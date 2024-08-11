@@ -10,13 +10,11 @@ Chatting with resume content using OpenAI
 <img width="1329" alt="Pasted Graphic 5" src="https://github.com/user-attachments/assets/725b9d7e-4910-4f93-8a7c-1d7d674b7f16">
 
 ￼
-
 Partha’s resume also uploaded and processed using open AI
 
 ￼<img width="1327" alt="Pasted Graphic 6" src="https://github.com/user-attachments/assets/b2d24827-82af-4f44-80fe-36a9f8f3cd2e">
 
 ￼<img width="1291" alt="Pasted Graphic 7" src="https://github.com/user-attachments/assets/385a7a6e-1e43-430e-a8f8-771f43454392">
-
 
 
 The killer comparison

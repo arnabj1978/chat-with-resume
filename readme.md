@@ -1,19 +1,18 @@
-# MultiPDF Chat App
+# Multiple Resume Chat App
 
-> You can find the tutorial for this project on [YouTube](https://youtu.be/dXxQ0LR-3Hg).
 
 ## Introduction
 ------------
-The MultiPDF Chat App is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs.
+The Multiple Resume Chat App is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs.
 
 ## How It Works
 ------------
 
-![MultiPDF Chat App Diagram](./docs/PDF-LangChain.jpg)
+![MultiPDF Chat App Diagram](./PDF-LangChain.jpg)
 
 The application follows these steps to provide responses to your questions:
 
-1. PDF Loading: The app reads multiple PDF documents and extracts their text content.
+1. Resume Loading: The app reads Resume PDF documents and extracts their text content.
 
 2. Text Chunking: The extracted text is divided into smaller chunks that can be processed effectively.
 
@@ -25,7 +24,7 @@ The application follows these steps to provide responses to your questions:
 
 ## Dependencies and Installation
 ----------------------------
-To install the MultiPDF Chat App, please follow these steps:
+To install the Chat with Resume Chat App, please follow these steps:
 
 1. Clone the repository to your local machine.
 

@@ -1,4 +1,7 @@
-Youtube link: https://youtu.be/I1SVVvmTKHM
+Youtube links: 
+  1) Recruiter/Hirining Manager usecase: https://youtu.be/I1SVVvmTKHM
+  2) Job Seeker Usecase: https://youtu.be/UgGwidYmOo4
+     
 
 
 

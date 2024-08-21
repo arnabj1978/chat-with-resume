@@ -1,3 +1,6 @@
+Youtube link: https://youtu.be/I1SVVvmTKHM
+
+
 
 Chatting with resume content using OpenAI, started with uploading Pandu's resume.
 
